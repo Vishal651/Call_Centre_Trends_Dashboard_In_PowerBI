@@ -33,6 +33,6 @@ Contributions to this project are welcome! If you have suggestions for improveme
 
 ### Feedback:
 
-We value your feedback! If you have any questions, comments, or suggestions, please don't hesitate to reach out via [vishalshastri1999@gmail.com] or by opening an issue on GitHub.
+We value your feedback! If you have any questions, comments, or suggestions, please don't hesitate to reach out via vishalshastri1999@gmail.com or by opening an issue on GitHub.
 
 Thank you for exploring the Call Centre Trends Dashboard! We hope you find it useful in your data analysis endeavors.
